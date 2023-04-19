@@ -3,7 +3,7 @@
 This repo is a collection of multiple C programming problems and their
 solutions. Before referring to this repository, it is recommended to know about
 the basics of programming like what are variables, loops, data types, functions,
-etc.
+etc.a
 
 Make sure to star the repository if you find it useful. And contributions to the
 repository are welcome.
